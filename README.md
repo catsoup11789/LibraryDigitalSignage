@@ -1,6 +1,18 @@
 # LibraryDigitalSignage
 Kirby CMS files for a library digital signage system
 
+### Download with Git
+
+If you are familiar with Git, you can clone this repository from Github.
+
+    git clone https://github.com/catsoup11789/LibraryDigitalSignage.git
+    
+## Issues
+
+If you have a Github account, please report issues directly on Github: <https://github.com/catsoup11789/LibraryDigitalSignage/issues>
+
+Or you can email me at tech.kirstien@salpublib.org
+
 # Kirby
 
 Kirby is a file-based CMS.
