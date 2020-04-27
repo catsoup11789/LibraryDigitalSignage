@@ -1,11 +1,18 @@
 # Library Digital Signage System using Kirby
 Kirby CMS files for a library digital signage system
 
-### Download with Git
+### Download and Install
 
 If you are familiar with Git, you can clone this repository from Github.
 
     git clone https://github.com/catsoup11789/LibraryDigitalSignage.git
+    
+Kirby does not require a database, which makes it very easy to
+install. Just copy Kirby's files to your server and visit the
+URL for your website in the browser.
+
+**Please check if the invisible .htaccess file has been
+copied to your server correctly**
     
 ## Issues
 
