@@ -1,0 +1,21 @@
+Start: 2020-03-03
+
+----
+
+Expire: 2020-04-29
+
+----
+
+Link: https://salinapubliclibrary.org/programs-services/poetry-series/
+
+----
+
+Category: adult
+
+----
+
+Selfcheck: true
+
+----
+
+Template: image

@@ -1,0 +1,25 @@
+Start: 2020-03-03
+
+----
+
+Expire: 2021-12-31
+
+----
+
+Category: adult
+
+----
+
+Selfcheck: true
+
+----
+
+Text: Click Here for Info
+
+----
+
+Link: https://salinapubliclibrary.org/
+
+----
+
+Template: image

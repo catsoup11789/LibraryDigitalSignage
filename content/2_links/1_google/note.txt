@@ -1,0 +1,9 @@
+Title: Search the Catalog
+
+----
+
+Link: https://salpublib.kohalibrary.com/cgi-bin/koha/opac-main.pl
+
+----
+
+Name: Google

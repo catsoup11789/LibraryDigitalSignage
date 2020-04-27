@@ -1,0 +1,32 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Shortcut
+
+options:
+  preview: false
+  changeSlug: false
+  changeTemplate: false
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📖
+
+# Custom descriptions for each page status depending on use case
+# More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+status:
+  draft:
+    label: Draft
+    text: The link is still in draft mode. It can only be seen by editors with panel access.
+  listed:
+    label: Published
+    text: The link is online and listed on the homepage
+
+# Define the form layout with two columns
+# Columns are optional but help structure the form layout
+# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+columns:
+  - width: 1
+    # This columns only has a single field
+    fields:
+      link:
+        label: URL
+        type: url
+      

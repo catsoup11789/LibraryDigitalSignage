@@ -1,0 +1,53 @@
+# Each file blueprint must have a title, the title may be different from the file name
+title: Image
+accept: image/jpeg, image/png
+# Like page blueprints, file blueprints can define a layout with tabs, columns, sections and fields
+# File blueprints define what sort of information should get stored in a file's meta data file
+# In addition to the fields defined in this example blueprint, you can also set what type of file is acceptable
+# when this blueprint is used, which allows you to control what users can upload.
+# More about file blueprints: https://getkirby.com/docs/reference/panel/blueprints/file
+columns:
+  - width: 1
+    sections:
+      meta:
+        type: fields
+        fields:
+          general:
+            label: Settings
+            type: headline
+          start:
+            label: Active on
+            type: date
+            required: true
+            width: 1/4
+          expire:
+            label: Inactive on
+            type: date
+            required: true
+            width: 1/4
+          category:
+            label: Category
+            width: 1/4
+            type: select
+            options:
+              youth: Youth
+              adult: Adult
+          selfcheck:
+            label: Share to Selfchecks?
+            width: 1/4
+            type: toggle
+          opac:
+            label: OPAC Button
+            type: headline
+          info:
+            type: info
+            label: Pro tip
+            text: If either of these fields are blank, the button will not populate.
+          text:
+            label: Text for Button
+            width: 1/2
+            type: text
+          link:
+            label: URL for Button
+            width: 1/2
+            type: url

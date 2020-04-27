@@ -1,0 +1,25 @@
+Start: 2020-03-03
+
+----
+
+Expire: 2021-12-31
+
+----
+
+Category: youth
+
+----
+
+Selfcheck: true
+
+----
+
+Text: Click to Register
+
+----
+
+Link: https://salina.evanced.info/signup/list?kw=minecraft
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Start: 2020-03-03
+
+----
+
+Expire: 2020-04-16
+
+----
+
+Link: https://salinapubliclibrary.org/programs-services/class/
+
+----
+
+Category: adult
+
+----
+
+Selfcheck: true
+
+----
+
+Template: image
