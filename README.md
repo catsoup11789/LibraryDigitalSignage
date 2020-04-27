@@ -1,4 +1,4 @@
-# LibraryDigitalSignage
+# Library Digital Signage System using Kirby
 Kirby CMS files for a library digital signage system
 
 ### Download with Git
