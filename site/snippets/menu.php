@@ -10,5 +10,5 @@
 <?php $shortcuts = page('/links')->children(); ?>
 
 <?php foreach ($shortcuts as $shortcut): ?>
-<a href="http://ds.salinalibrary.info/frame?shortcut=<?= $shortcut->link() ?>"><?= $shortcut->title() ?></a>
+<a href="<?= site()->url() ?>/frame?shortcut=<?= $shortcut->link() ?>"><?= $shortcut->title() ?></a>
 <?php endforeach ?>
